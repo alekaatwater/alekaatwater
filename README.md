@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleka Atwater </h1>
-<h3 align="center">Cybersecurity Enthusiast | Data Fanatic </h3>
+<h3 align="center">Cybersecurity & Data Analysis </h3>
 
 - 🌱 I’m currently learning **security operations and information management.**
 

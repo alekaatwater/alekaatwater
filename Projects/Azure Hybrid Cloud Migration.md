@@ -54,4 +54,5 @@ Recommended and justified an Infrastructure as a Service (IaaS) model, giving th
 - Aligned backup policy with FISMA controls CP-6 and CP-9 and PCI DSS Requirement 12.10
 
 ## Full Project Report
-[View Full Report (PDF)](./DGN1_Cloud_Security_Implementation_Plan.pdf)
+[View Full Report (PDF)](./GithubAzureProject
+.pdf)

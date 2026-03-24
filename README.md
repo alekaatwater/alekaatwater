@@ -93,13 +93,6 @@ Compliance Frameworks
 
 ---
 
-### 🛡️ [Phishing Attack Response & Remediation](#)
-> Led incident response for a phishing attack, identifying cryptojacking malware and implementing firewall rules to prevent future threats using SIEM tools.
-
-**Tech Stack:** `SIEM` `Splunk` `Wireshark` `Firewall Rules` `Incident Response`
-
----
-
 ### 🌐 [Network Integration for M&A](https://github.com/alekaatwater/it-operations)
 > Executed IT systems integration for a merger, deploying secure network architecture and ensuring regulatory compliance for seamless business continuity.
 

@@ -100,7 +100,7 @@ Compliance Frameworks
 
 ---
 
-### 🌐 [Network Integration for M&A](#)
+### 🌐 [Network Integration for M&A](https://github.com/alekaatwater/it-operations)
 > Executed IT systems integration for a merger, deploying secure network architecture and ensuring regulatory compliance for seamless business continuity.
 
 **Tech Stack:** `Network Design` `Compliance` `Integration` `Security`

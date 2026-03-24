@@ -86,7 +86,7 @@ Compliance Frameworks
 
 ## 📂 Featured Projects
 
-### 🔐 [Azure Hybrid Cloud Implementation](#)
+### 🔐 [Azure Hybrid Cloud Implementation](https://github.com/alekaatwater/azure-cloud)
 > Designed and deployed a secure Azure hybrid cloud environment using RBAC, PIM, and encryption to meet HIPAA, PCI DSS, and NIST SP 800-53 compliance standards.
 
 **Tech Stack:** `Azure` `PowerShell` `RBAC` `Encryption` `Compliance`
